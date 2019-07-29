@@ -2,6 +2,15 @@
 
 All notable changes to `spatie/crawler` will be documented in this file.
 
+## Unreleased (5.0.0)
+
+Breaking changes:
+
+- exception `UrlNotFoundByIndex` has been renamed to `UrlNotFound`
+- method `CrawlQueue::getUrlById()` has been removed
+- new method `CrawlQueue::get()` has been added
+- property `CrawlUrl::$id` and getter/setter have been removed
+
 ## 4.5.0 - 2019-07-22
 
 - Make user agent configurable (#246)
