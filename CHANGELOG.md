@@ -2,6 +2,22 @@
 
 All notable changes to `spatie/crawler` will be documented in this file.
 
+## 8.1.0 - 2024-01-02
+
+### What's Changed
+
+* feat: custom link parser by @Velka-DEV in https://github.com/spatie/crawler/pull/458
+
+### New Contributors
+
+* @Velka-DEV made their first contribution in https://github.com/spatie/crawler/pull/458
+
+**Full Changelog**: https://github.com/spatie/crawler/compare/8.0.4...8.1.0
+
+## 8.0.4 - 2023-12-29
+
+- allow Browsershot v4
+
 ## 8.0.3 - 2023-11-22
 
 ### What's Changed
